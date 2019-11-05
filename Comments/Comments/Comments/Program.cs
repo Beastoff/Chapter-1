@@ -10,7 +10,7 @@ namespace Comments
     {
         static void Main(string[] args)
         {
-            string 
+            Console.WriteLine("Comments explain what is going on inside the code.");
         }
     }
 }
